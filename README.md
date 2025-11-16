@@ -42,15 +42,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking Notes On Terminal Made Simple: Introducing AppNotEx for Linux](https://dev.to/abirtx/taking-notes-on-terminal-made-simple-introducing-appnotex-for-linux-5e3i)
-- [FFMPEG-Coder: Simplifying Video Conversion with FFMPEG](https://dev.to/abirtx/ffmpeg-coder-simplifying-video-conversion-with-ffmpeg-14aj)
-- [Introducing ALib: Your Cross-Platform C++ Utility Library](https://dev.to/abirtx/introducing-alib-your-cross-platform-c-utility-library-33i5)
-- [Enhance Your Fast.com Experience with the DraculaFast Dark Theme 🌙](https://dev.to/abirtx/enhance-your-fastcom-experience-with-the-draculafast-dark-theme-583p)
-- [Organize Your Digital Study Materials Quickly Using This Tool](https://dev.to/abirtx/organize-your-digital-study-materials-quickly-using-this-tool-54eo)
-<!-- BLOG-POST-LIST:END -->
 
-<br />
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abir-tx&show_icons=true&theme=onedark&locale=en&layout=compact" alt="abir-tx" /></p>
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abir-tx&show_icons=true&theme=onedark&locale=en" alt="abir-tx" /></p> -->
 
