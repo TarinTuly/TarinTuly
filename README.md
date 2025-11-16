@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=TarinTuly&label=Profile%20views&color=0e75b6&style=flat" alt="TarinTuly" />
 </p>
 
-- 🔭 I’m currently working on [BlogHub](https://github.com/TarinTuly/BlogHub)
+- 🔭 I’m currently working on [BlogHub](https://github.com/TarinTuly/Ecommerce)
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
