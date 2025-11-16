@@ -14,7 +14,5 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/TarinTuly)
 
-- 🌎 Visit my personal [Website]() <!-- Replace # with your website link -->
-
 - 📫 How to reach me: [Email](mailto:your-tarinn577@gmail.com) <!-- Replace with your email -->
 
